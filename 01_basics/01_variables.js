@@ -11,4 +11,4 @@ accountCity = "lahore"
 
 console.log(accountId);
 
-// console.table([accountId, accountEmail, accouuntPassword, accountCity])
+var change = 1;
